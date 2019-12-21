@@ -1,0 +1,11 @@
+.app-layout {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+}
+
+.ml-layout {
+  position: absolute;
+  transform: translateX(-50%);
+  left: 50%;
+}
